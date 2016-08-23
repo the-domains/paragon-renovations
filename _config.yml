@@ -1,14 +1,14 @@
 layout_spectrum: 0.4535305
-color:
-  saturation: 0.7827194
-  lightness: 0.7226717
-  brandStrength: 0.7437276
-  brandColors:
-    - '#272D39'
-    - '#FFFFFF'
-    - '#C7B99F'
-    - '#6493D7'
-    - '#6B6764'
-  rhythmicContrast: 0.4719265
 typography_spectrum: 0.7150537
+color:
+  saturation: 0.7670251
+  lightness: 0.6989247
+  brandStrength: 0.7060932
+  brandColors:
+    - '#FFFFFF'
+    - '#16191E'
+    - '#A0FEFE'
+    - '#A6A9B0'
+    - '#7BCCFF'
+  rhythmicContrast: 0.6236559
 name: 'Paragon Renovations '
