@@ -1,14 +1,26 @@
-layout_spectrum: 0.4535305
-typography_spectrum: 0.7150537
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.7670251
-  lightness: 0.6989247
   brandStrength: 0.7060932
+  lightness: 0.6989247
   brandColors:
+    - '#272D39'
     - '#FFFFFF'
-    - '#16191E'
-    - '#A0FEFE'
-    - '#A6A9B0'
-    - '#7BCCFF'
+    - '#C7B99F'
+    - '#6493D7'
+    - '#6B6764'
   rhythmicContrast: 0.6236559
+typography_spectrum: 0.7150537
+layout_spectrum: 0.4535305
 name: 'Paragon Renovations '
